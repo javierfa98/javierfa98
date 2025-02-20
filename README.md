@@ -1,4 +1,4 @@
-# Public Repositories
+# Projects Overview
  
 ## Neural Networks for Modeling Dynamic Systems
 - [MA-LSTM-MLP](https://github.com/javierfa98/MA-LSTM-MLP): [Neural Comput & Applic] Dynamical System Simulation with Attention and Recurrent Neural Networks.
