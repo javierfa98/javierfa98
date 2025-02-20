@@ -1,6 +1,6 @@
 # Projects Overview
  
-## 🤖 Neural Networks for Modeling Dynamic Systems
+## 🤖 Neural Networks
 | Repository | Stars |
 |------------|:-----:|
 | [MA-LSTM-MLP](https://github.com/javierfa98/MA-LSTM-MLP) | ![Stars](https://img.shields.io/github/stars/javierfa98/MA-LSTM-MLP?style=social) |
