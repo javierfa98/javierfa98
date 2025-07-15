@@ -16,5 +16,5 @@
 | Repository | Stars |
 |------------|:-----:|
 | [Personal Website](https://github.com/javierfa98/javierfa98.github.io) | ![Stars](https://img.shields.io/github/stars/javierfa98/javierfa98.github.io?style=social) |
-| [Android Card Game](https://github.com/javierfa98/Android-Card-Game) | ![Stars](https://img.shields.io/github/stars/javierfa98/Android-Card-Game?style=social) |
 | [Street Fighter II](https://github.com/javierfa98/Street_Fighter_II) | ![Stars](https://img.shields.io/github/stars/javierfa98/Street_Fighter_II?style=social) |
+| [Android Card Game](https://github.com/javierfa98/Android-Card-Game) | ![Stars](https://img.shields.io/github/stars/javierfa98/Android-Card-Game?style=social) |
