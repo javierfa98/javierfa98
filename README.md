@@ -3,7 +3,7 @@
 ## 🤖 Neural Networks
 | Repository | Stars |
 |------------|:-----:|
-| [MA-LSTM-MLP](https://github.com/javierfa98/MA-LSTM-MLP) | ![Stars](https://img.shields.io/github/stars/javierfa98/MA-LSTM-MLP?style=social) |
+| [MA-LSTM-MLP](https://github.com/javierfa98/MA-LSTM-MLP) | ![Stars](https://img.shields.io/github/stars/javierfa98/MA-LSTM-MLP) |
 | [AR-Transformer](https://github.com/javierfa98/AR_Transformer) | ![Stars](https://img.shields.io/github/stars/javierfa98/AR_Transformer?style=social) |
 | [PINNs-Examples](https://github.com/javierfa98/PINNs-Examples) | ![Stars](https://img.shields.io/github/stars/javierfa98/PINNs-Examples?style=social) |
 
