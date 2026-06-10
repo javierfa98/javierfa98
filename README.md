@@ -17,20 +17,14 @@ You can also find me on:
 # Projects Overview
  
 ## 🤖 Neural Networks 🤖
-| Repository | Stars |
-|------------|:-----:|
-| [MA-LSTM-MLP](https://github.com/javierfa98/MA-LSTM-MLP) | ![Stars](https://img.shields.io/github/stars/javierfa98/MA-LSTM-MLP?style=social) |
-| [AR-Transformer](https://github.com/javierfa98/AR_Transformer) | ![Stars](https://img.shields.io/github/stars/javierfa98/AR_Transformer?style=social) |
-| [PINNs-Examples](https://github.com/javierfa98/PINNs-Examples) | ![Stars](https://img.shields.io/github/stars/javierfa98/PINNs-Examples?style=social) |
+![MA-LSTM-MLP](https://github-readme-stats.vercel.app/api/pin/?username=javierfa98&repo=MA-LSTM-MLP&theme=github_dark)
+![AR-Transformer](https://github-readme-stats.vercel.app/api/pin/?username=javierfa98&repo=AR_Transformer&theme=github_dark)
+![PINNs-Examples](https://github-readme-stats.vercel.app/api/pin/?username=javierfa98&repo=PINNs-Examples&theme=github_dark)
 
 ## 📁 Datasets 📁
-| Repository | Stars |
-|------------|:-----:|
-| [Double-Pendulum-NN](https://github.com/javierfa98/Double-Pendulum-NN) | ![Stars](https://img.shields.io/github/stars/javierfa98/Double-Pendulum-NN?style=social) |
+![Double-Pendulum-NN](https://github-readme-stats.vercel.app/api/pin/?username=javierfa98&repo=Double-Pendulum-NN&theme=github_dark)
 
 ## 🎲 Miscellaneous 🎲
-| Repository | Stars |
-|------------|:-----:|
-| [Personal Website](https://github.com/javierfa98/javierfa98.github.io) | ![Stars](https://img.shields.io/github/stars/javierfa98/javierfa98.github.io?style=social) |
-| [Street Fighter II](https://github.com/javierfa98/Street_Fighter_II) | ![Stars](https://img.shields.io/github/stars/javierfa98/Street_Fighter_II?style=social) |
-| [Android Card Game](https://github.com/javierfa98/Android-Card-Game) | ![Stars](https://img.shields.io/github/stars/javierfa98/Android-Card-Game?style=social) |
+![Personal Website](https://github-readme-stats.vercel.app/api/pin/?username=javierfa98&repo=javierfa98.github.io&theme=github_dark)
+![Street Fighter II](https://github-readme-stats.vercel.app/api/pin/?username=javierfa98&repo=Street_Fighter_II&theme=github_dark)
+![Android Card Game](https://github-readme-stats.vercel.app/api/pin/?username=javierfa98&repo=Android-Card-Game&theme=github_dark)
