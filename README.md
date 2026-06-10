@@ -15,7 +15,8 @@ You can also find me on:
 [![ORCID](https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white)](https://orcid.org/0009-0001-9216-869X)
 
 # Projects Overview
- 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=javierfa98&theme=ambient_gradient&show_icons=true&hide=commits,prs,issues,contribs)
+
 ## 🤖 Neural Networks 🤖
 ![MA-LSTM-MLP](https://github-readme-stats.vercel.app/api/pin/?username=javierfa98&repo=MA-LSTM-MLP&theme=github_dark)
 ![AR-Transformer](https://github-readme-stats.vercel.app/api/pin/?username=javierfa98&repo=AR_Transformer&theme=github_dark)
