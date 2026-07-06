@@ -15,17 +15,17 @@ You can also find me on:
 [![ORCID](https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white)](https://orcid.org/0009-0001-9216-869X)
 
 # Projects Overview
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=javierfa98&theme=ambient_gradient&show_icons=true&hide=commits,prs,issues,contribs)](https://github.com/javierfa98)
+[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=javierfa98&theme=ambient_gradient&show_icons=true&hide=commits,prs,issues,contribs)](https://github.com/javierfa98)
 
 ## 🤖 Neural Networks 🤖
-[![MA-LSTM-MLP](https://github-readme-stats.vercel.app/api/pin/?username=javierfa98&repo=MA-LSTM-MLP&theme=github_dark)](https://github.com/javierfa98/MA-LSTM-MLP)
-[![AR-Transformer](https://github-readme-stats.vercel.app/api/pin/?username=javierfa98&repo=AR_Transformer&theme=github_dark)](https://github.com/javierfa98/AR_Transformer)
-[![PINNs-Examples](https://github-readme-stats.vercel.app/api/pin/?username=javierfa98&repo=PINNs-Examples&theme=github_dark)](https://github.com/javierfa98/PINNs-Examples)
+[![MA-LSTM-MLP](https://github-stats-extended.vercel.app/api/pin/?username=javierfa98&repo=MA-LSTM-MLP&theme=github_dark)](https://github.com/javierfa98/MA-LSTM-MLP)
+[![AR-Transformer](https://github-stats-extended.vercel.app/api/pin/?username=javierfa98&repo=AR_Transformer&theme=github_dark)](https://github.com/javierfa98/AR_Transformer)
+[![PINNs-Examples](https://github-stats-extended.vercel.app/api/pin/?username=javierfa98&repo=PINNs-Examples&theme=github_dark)](https://github.com/javierfa98/PINNs-Examples)
 
 ## 📁 Datasets 📁
-[![Double-Pendulum-NN](https://github-readme-stats.vercel.app/api/pin/?username=javierfa98&repo=Double-Pendulum-NN&theme=github_dark)](https://github.com/javierfa98/Double-Pendulum-NN)
+[![Double-Pendulum-NN](https://github-stats-extended.vercel.app/api/pin/?username=javierfa98&repo=Double-Pendulum-NN&theme=github_dark)](https://github.com/javierfa98/Double-Pendulum-NN)
 
 ## 🎲 Miscellaneous 🎲
-[![Personal Website](https://github-readme-stats.vercel.app/api/pin/?username=javierfa98&repo=javierfa98.github.io&theme=github_dark)](https://github.com/javierfa98/javierfa98.github.io)
-[![Street Fighter II](https://github-readme-stats.vercel.app/api/pin/?username=javierfa98&repo=Street_Fighter_II&theme=github_dark)](https://github.com/javierfa98/Street_Fighter_II)
-[![Android Card Game](https://github-readme-stats.vercel.app/api/pin/?username=javierfa98&repo=Android-Card-Game&theme=github_dark)](https://github.com/javierfa98/Android-Card-Game)
+[![Personal Website](https://github-stats-extended.vercel.app/api/pin/?username=javierfa98&repo=javierfa98.github.io&theme=github_dark)](https://github.com/javierfa98/javierfa98.github.io)
+[![Street Fighter II](https://github-stats-extended.vercel.app/api/pin/?username=javierfa98&repo=Street_Fighter_II&theme=github_dark)](https://github.com/javierfa98/Street_Fighter_II)
+[![Android Card Game](https://github-stats-extended.vercel.app/api/pin/?username=javierfa98&repo=Android-Card-Game&theme=github_dark)](https://github.com/javierfa98/Android-Card-Game)
